@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oolmos98
-- - 👋 The name is Omar Olmos
+- 👋 The name is Omar Olmos
 - 👀 I am a Software Engineer with a current emphasis in Mobile development.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me oolmos98@gmail.com
